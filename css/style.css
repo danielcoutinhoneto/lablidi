@@ -1,0 +1,26 @@
+.p-color {
+  color: #00a651;
+}
+
+.bd-top {
+  padding-top: 0.5%;
+}
+
+.img-logo {
+  width: 140px;
+  height: 45px;
+}
+
+.text-col-h1 {
+  text-decoration-color: black;
+}
+
+.btn-col {
+  color: #00a651;
+}
+
+.link-top-site {
+  text-decoration: none;
+  color: #00a651;
+  text-decoration-style: none;
+}
