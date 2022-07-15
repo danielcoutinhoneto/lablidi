@@ -1,6 +1,8 @@
 ## Projeto do novo site do Lidi Laboratório
 
-Esse projeto coloquei em partica a parte de Html, css e o framework Boostrap 5 que foi fudamental para o desenvolviemnto mais ágil do mesmo. 
+Esse projeto coloquei em partica a parte de Html, css e o framework Boostrap 5 que foi fudamental para o desenvolviemnto mais ágil do mesmo.
+
+Obs.: O Bootstrap 5 está sendo usado atraves cdn.  
 
  ##
 
